@@ -1,3 +1,4 @@
+theme: jekyll-theme-midnight
 # **Welcome to Thea's Github**
 
 > Helllo! My name is Althea. You can call me **Thea1396**.
