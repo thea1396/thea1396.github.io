@@ -10,6 +10,9 @@
 
 ## All About Me
 ### Like reading books
+
+![alt text](https://storage.googleapis.com/ltkcms.appspot.com/fs/yd/images/cover/book-genres.base?v=1591896477)
+
 | Genres that I love💕 | Genres that are ok 👍 | Genres that I don't like😒 |
 |-----------------|--------|----------------------------|
 | Horror | Sci-Fi | Tragedy |
