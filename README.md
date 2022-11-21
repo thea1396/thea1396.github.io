@@ -1,13 +1,19 @@
 
-# **Welcome to Thea's Github**
-
+# **Welcome to Thea's Github!** 😃
 
 > Helllo! My name is Althea. You can call me **Thea1396**.
+
 
 ## **School Related Links**
 ### [`JHS PORTAL`](https://jhsportal.adnu.edu.ph/)
 ### [`ADNU JHS Online System`](https://jhsos.adnu.edu.ph/)
 
-
-## **ALL ABOUT ME**
-
+## All About Me
+### Like reading books
+| Genres that I love💕 | Genres that are ok 👍 | Genres that I don't like😒 |
+|-----------------|--------|----------------------------|
+| Horror | Sci-Fi | Tragedy |
+| Thriller & Suspense |Mystery| Drama |
+| Fantasy | Adventure | Historical |
+| Romance | Humor | Fan-fiction |
+| Crime | Action | 
