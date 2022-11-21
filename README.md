@@ -10,5 +10,4 @@ theme: jekyll-theme-midnight
 
 
 ## **ALL ABOUT ME**
-### FAVOUIRTE DRINK
-![alt text](https://salvagente.co.za/wp-content/uploads/2015/02/lemonade-e-juice.jpg)
+
