@@ -3,11 +3,6 @@
 
 > Helllo! My name is Althea. You can call me **Thea1396**.
 
-
-## **School Related Links**
-### [`JHS PORTAL`](https://jhsportal.adnu.edu.ph/)
-### [`ADNU JHS Online System`](https://jhsos.adnu.edu.ph/)
-
 ## All About Me
 ### Like reading books
 
