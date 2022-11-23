@@ -3,13 +3,13 @@
 
 > Helllo! My name is Althea. You can call me **Thea1396**.
 
-## All About Me
+![alt text](https://i.pinimg.com/originals/d0/ab/36/d0ab36f3a94c1a2abe632f3477b99db6.gif)
 
 ## TOPICS I AM INTERESTED IN 😄
 >### `PSYCHOLOGY` 
 >### `ZOOLOGY` 
 >### `MYTHOLOGY`
->### `` 
+>### `ONIEROLOGY`
 
 ## HOBBIES ✍
 > - Drawing
@@ -28,4 +28,6 @@
 | Romance | Humor | Fan-fiction |
 | Crime | Action | 
 
-<img src="" width="1000">
+
+run <adio
+
