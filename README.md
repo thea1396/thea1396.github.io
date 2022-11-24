@@ -6,7 +6,7 @@ theme: jekyll-theme-merlot
 ![alt text](https://i.pinimg.com/originals/d0/ab/36/d0ab36f3a94c1a2abe632f3477b99db6.gif)
 
 ## TOPICS I AM INTERESTED IN 😄
->### `PSYCHOLOGY` 
+>### `PSYCHOLOGY`
 >### `ZOOLOGY` 
 >### `MYTHOLOGY`
 >### `ONIEROLOGY`
@@ -27,5 +27,3 @@ theme: jekyll-theme-merlot
 | Fantasy | Adventure | Historical |
 | Romance | Humor | Fan-fiction |
 | Crime | Action | 
-
-
