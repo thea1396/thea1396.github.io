@@ -1,4 +1,4 @@
-
+theme: jekyll-theme-merlot
 # **Welcome to Thea's Github!** 😃
 
 > Helllo! My name is Althea. You can call me **Thea1396**.
@@ -12,7 +12,7 @@
 >### `ONIEROLOGY`
 
 ## HOBBIES ✍
-> - Drawing
+> - Drawing 
 > - Listening to music
 > - Reading Novels, Manhwas, Manhuas, and Mangas
 
