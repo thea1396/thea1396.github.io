@@ -1,4 +1,5 @@
 theme: jekyll-theme-merlot
+
 # **Welcome to Thea's Github!** 😃
 
 > Helllo! My name is Althea. You can call me **Thea1396**.
@@ -35,7 +36,17 @@ theme: jekyll-theme-merlot
 
 ### NOVEL'S EXTRA
 
-<img src="https://meo.comick.pictures/0EEvq.png" width="600">
+<img src="https://tse4.mm.bing.net/th?id=OIP.9oXngeBVDyM1HQLfgpETdwAAAA&pid=Api&P=0" width="600">
 
+### VILLAIN TO KILL
 
+<img src="https://www.wasabith.com/wp-content/uploads/2021/02/Villain-to-Kill.jpg" width="600">
+
+### WORLD'S STRONGEST TROLL
+
+<img src="https://i0.wp.com/skoiiz-manga.com/wp-content/uploads/2022/11/Worlds-Strongest-TrollWorlds-Strongest-Troll.webp" width="600">
+
+### END AND SAVE
+
+<img src="https://manhwa18.cc/manga/end-and-save-578.jpg" width="600">
 
