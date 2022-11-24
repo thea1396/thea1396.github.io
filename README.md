@@ -27,3 +27,15 @@ theme: jekyll-theme-merlot
 | Fantasy | Adventure | Historical |
 | Romance | Humor | Fan-fiction |
 | Crime | Action | 
+
+## SOME OF THE MANHWAS THAT I READ
+### MY SCHOOL LIFE PRETENDING TO BE A WORTHLESS PERSON
+
+![alt text](https://www.hulamanga.com/wp-content/uploads/2022/10/my-school-life-pretending-to-be-a-worthless-person.jpg)
+
+### NOVEL'S EXTRA
+
+<img src="https://meo.comick.pictures/0EEvq.png" width="600">
+
+
+
