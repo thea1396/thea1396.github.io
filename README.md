@@ -50,3 +50,4 @@ theme: jekyll-theme-merlot
 
 <img src="https://manhwa18.cc/manga/end-and-save-578.jpg" width="600">
 
+## THANK YOU AND HAVE A NICE DAY! 😊
