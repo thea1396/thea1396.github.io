@@ -1,4 +1,3 @@
-theme: jekyll-theme-merlot
 
 # **Welcome to Thea's Github!** 😃
 
